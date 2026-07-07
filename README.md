@@ -1,6 +1,6 @@
 # 🚕 Relatório Táxi
 
-API desenvolvida com **NestJS** para consulta de informações de motoristas, permissionários e vínculos de táxi, integrando os bancos de dados **ATENA (SIT)** e **PRD_SEMOB**.
+API desenvolvida com **NestJS** para consulta de informações de motoristas, permissionários e vínculos de táxi.
 
 A aplicação disponibiliza endpoints REST documentados com Swagger para consulta de:
 
